@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaluty" alt="zaluty" /></a> </p>
 
-- 🔭 I’m currently working on [PRIVACIFY](https://github.com/zaluty/privacify-v.0)
+- 🔭 I’m currently working on [PRIVACIFY](https://github.com/zaluty/keyzilla)
 
 - 🌱 I’m currently learning **Flutter**
 
