@@ -18,7 +18,7 @@ $ curl -s https://raw.githubusercontent.com/zaluty/zaluty/master/hello.sh | sh
 ├── Born on 2008.03.08
 └── Joined Github on 2021-01-09
 
-$ waka stats --user Asgarrrr --from 2024-09-21 --to 2024-09-28
+$ waka stats --user zaluty --from 2024-09-21 --to 2024-09-28
 
  TypeScript  │  70.95%  ████████████         16 hrs 3 mins
          Go  │  20.83%  ████████             11 hrs 7 mins
