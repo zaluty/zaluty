@@ -1,4 +1,4 @@
-```bash
+```console
 $ curl -s https://raw.githubusercontent.com/zaluty/zaluty/master/hello.sh | sh
 
 
