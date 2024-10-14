@@ -39,7 +39,7 @@ $ ls zaluty
 │   ├── VSCode      WebStorm    PyCharm         Docker
 │   ├── Git         GitHub      Vercel          Railway
 │   ├── Sketch      Figma       Discord          Postman
-│   └── Thund er Client
+│   └── Thunder Client
 │
 └── Databases
     └── MySQL       SQLite      MongoDB         Redis      CockroachDB      Convex      Supabase      PostgreSQL
